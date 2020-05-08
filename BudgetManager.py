@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
-
-
 import PySimpleGUI as sg
 from datetime import datetime
 import sqlite3
