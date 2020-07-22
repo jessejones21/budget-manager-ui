@@ -18,6 +18,6 @@
 
 ## &nbsp;Summary
 &nbsp;&nbsp; This app was inspired by a monthly process that I used to manage my money in an excel spreadsheet.     
-&nbsp;&nbsp; Personal finance has always been something of great interest to me so this was a perfect project 
-&nbsp;&nbsp; for me to continue to build my programming skills. This was my first time working with a UI. 
-&nbsp;&nbsp; Notable modules used are PySimpleGUI, SQLite, and Matplotlib. 
+&nbsp;&nbsp; Personal finance has always been something of great interest to me so this was a perfect project for me
+&nbsp;&nbsp; to continue to build my programming skills. This was my first time working with a UI. Notable modules used
+&nbsp;&nbsp; are PySimpleGUI, SQLite, and Matplotlib. 
